@@ -18,7 +18,7 @@ import {
 } from '@dnd-kit/sortable';
 import { CSS } from '@dnd-kit/utilities';
 
-// ... (Keep existing types: ExperienceItem) ...
+// download the required packages
 type ExperienceItem = {
   id: string;
   role: string;
